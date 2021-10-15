@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Popcorn Factory</string>
+    <string name="movies">PopcornFactory</string>
+    <string name="condensed">PopcornFactory</string>
 </resources>

@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/drawable/radio_disable.xml" value="0.2890625" />
+        <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/drawable/radio_normal.xml" value="0.2890625" />
+        <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/drawable/radio_selectable.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/drawable/radio_selected.xml" value="0.16018518518518518" />
         <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/drawable/round_button.xml" value="0.19074074074074074" />
-        <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/layout/activity_catalogo.xml" value="0.13069908814589665" />
+        <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/layout/activity_catalogo.xml" value="0.2" />
         <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/layout/activity_detalle_pelicula.xml" value="0.22509057971014493" />
         <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/layout/activity_seat_selection.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Jesus Adrian/Desktop/PopcornFactory/app/src/main/res/layout/pelicula.xml" value="0.22509057971014493" />
       </map>
     </option>
